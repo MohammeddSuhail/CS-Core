@@ -1,0 +1,3 @@
+What Does Superkey Mean? 
+A superkey is a combination of columns that uniquely identifies any row within a relational database management system (RDBMS) table. 
+A candidate key is a closely related concept where the superkey is reduced to the minimum number of columns required to uniquely identify each row.
